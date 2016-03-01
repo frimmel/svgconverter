@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    text-align: center;
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+textarea {
+    display: block;
+    width: 100%;
+    min-height: 200px;
+    margin-bottom: 5px;
+}
+
+h1 {
+    margin: 10px 0 10px;
+}
+
+.instructions {
+    margin-bottom: 10px;
+}
+
+#trigger {
+    width: 30%;
+    font-size: 18px;
+    padding: 5px 0;
+    margin-bottom: 5px;
+}
+
+#svg {
+    margin-top: 5px;
+    word-wrap: break-word;
+}
+
+
